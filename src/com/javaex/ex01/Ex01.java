@@ -22,7 +22,7 @@ public class Ex01 {
 		no = 127;
 		System.out.println(no);
 		
-		no++;
+		no++; // no값에서 +1
 		System.out.println(no);
 		
 		Integer num = Integer.MAX_VALUE; //int 최대값, 다른 정수들도 이 클라스 있음
